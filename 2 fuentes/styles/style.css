@@ -1,0 +1,24 @@
+
+#f1{
+    
+    font-family: monospace; 
+    font-size:20px;
+    font-style: oblique;
+    font-variant:small-caps;
+    font-weight:900;
+    
+}
+
+/*
+         FUENTES  
+
+FONT FAMILY,especifica la familia de fuentes para texto(trae todas las fuentes)
+  
+FONT SIZE / LINE-HEIGHT, tamaño de la fuente
+
+FONT STYLE , para el estilo de fuentes , q normal, italica, oblicua 
+
+FONT VARIANT, especifica si o no un texto debe mostrarse en mayusculas, convierte de minusculas a may
+
+FONT WEIGHT,La propiedad font-weight establece cómo se deben mostrar los caracteres gruesas o finas en el texto.*/
+

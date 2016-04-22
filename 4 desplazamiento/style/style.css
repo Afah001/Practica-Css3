@@ -1,0 +1,56 @@
+/*DESPLAZAMIENTO es el orden de mis elementos en la pagina
+
+        1 float, nos dice si nuestro elemento debe flotar y hacia q lugar
+
+                none, no debe flotar
+                left, hacia la izquierda
+                right, hacia la derecha  */
+
+
+
+#left{
+    
+    float: left;
+    background-color: green;
+    
+    
+}
+
+
+
+#right{
+    
+    float:right;
+    background-color: fuchsia;
+   
+}
+
+#noFloto{
+    
+    
+    float: none;
+    
+}
+
+
+
+
+
+
+  /*      2 clear, despeja a nuestros elementos flotantes
+
+                none, por defecto permite elementos flotantes en ambos lados, los deja pegar
+
+                left, no permite q se pueda flotar en el lado izquierdo
+                right, no permite q se pueda flotar en el lado derecho
+                both, no deja flotar elementos de los dos lados
+*/
+
+#tambienFloto{
+    
+    float:right;
+    background-color:yellow;
+    clear: right;
+    
+    
+}

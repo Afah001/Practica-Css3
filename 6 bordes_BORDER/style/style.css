@@ -1,0 +1,44 @@
+div{
+
+    width: 250px;
+    height: 250px;
+    
+     border: 3PX solid black;
+    
+     border-top-width:20px;  /*anchura*/
+     border-bottom-color:red;/*color*/
+     border-left-style: dashed;/*estilo*/
+     border-right-color: blue; /*color*/
+    
+}
+
+
+/*
+CSS permite modificar el aspecto de cada uno de los cuatro bordes de la caja de un elemento. Para cada borde se puede establecer su anchura o grosor, su color y su estilo, por lo que en total CSS define 20 propiedades relacionadas con los bordes.
+
+
+BORDES DE ANCHURA O GROSOR 
+
+border-top-width,  
+border-right-width,
+border-bottom-width, 
+border-left-width
+
+BORDES DE COLOR
+
+border-top-color, 
+border-right-color, 
+border-bottom-color, 
+border-left-color
+
+BORDES DE ESTILO
+
+border-top-style,
+border-right-style,
+border-bottom-style,
+border-left-style
+
+BORDES DE IMAGEN
+
+BORDES REDONDEADOS
+*/

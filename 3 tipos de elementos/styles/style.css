@@ -1,0 +1,62 @@
+/*DISPLAY, pone el tipo de caja de un elemento ya q todos los elementos son cajas en html
+        
+        1 inline, muestra un elemento en linea
+        2 block, muestra un elemento como un elemento de bloque (como < p > )
+        3 inline-block,muestra un elemento como un contenedor a nivel de linea
+        4 none, el elemento no se mostrara(no tiene efecto el diseño)
+*/
+
+#inline{
+    
+    display: inline;
+    background-color: aqua;
+    
+}
+
+#block{
+    
+    display: block;
+    background-color: red;
+    
+}
+
+#inline-block{
+    
+    display: inline-block;
+    background-color: forestgreen;
+    
+    
+}
+
+#none{
+    
+    display:none;  
+    background-color: black;
+    
+}
+
+/*VISIBILITY,nos dice si un elemento es visible , por defecto es visible
+
+        1 visible, determina si el elemento es visible
+
+        2 hidden, el elemento es invisible(pero aun ocupa espacio)
+
+        3 collapse, Sólo para elementos de tabla . elimina una fila o columna , pero no afecta a la  la tabla.El espacio ocupado por la fila o columna estará disponible para otros contenidos.
+        Si se utiliza el colapso en otros elementos , se hace como " oculta"
+
+*/
+
+h1{
+    
+    visibility: visible;
+    
+}
+
+h2{
+    
+    visibility: hidden;
+    
+}
+
+
+
