@@ -1,0 +1,54 @@
+/*LETTER SPACING, espacio entre cada letra o caracter
++ separada
+- pegada
+
+LINE-HEIGTH altura de la  linea
+
+TEXT-INDENT pone la sangria de la primera linea en un bloque de texto
+
+
+WORD-SPACING palabra separada
+
+WHITE-SPACING determina como se controla un espacio en blanco dentro de un elemento
+
+        nowrap:el texto sigue derecho y sigue derecho hasta encontrar un br no hace caso a como el p esta distriburido;
+
+        pre-line:Los espacios en blanco se conserva por el navegador . Texto se ajustará cuando sea necesario , y en los saltos de línea
+
+TEXT ALIGN alinea el texto o la fuente
+        
+        center
+        justify
+        left
+        right*/
+            
+        
+h1{
+    
+    letter-spacing:20px;
+    text-align:center;
+    
+}
+
+h2{
+    
+    letter-spacing:-3px;
+    line-height: 100px;
+}
+
+#e{
+    
+    text-indent:50px;
+    word-spacing: 20px;
+    
+}
+
+#e2{
+    
+    
+    white-space:nowrap;
+    
+    
+}
+
+
