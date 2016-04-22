@@ -1,0 +1,33 @@
+/*MARGENES 
+    
+        MARGIN:especifica la margen de cada uno de los lados  de un elemento  puede tener de 1 a 4 lados
+
+        margin:2cm 4cm 2 cm 5 cm;
+
+
+                length; longitud de las margenes en px pt cm 
+                %: especifica una margen en porcentaje de anchura del elemento;
+                auto; margen auto 
+        
+         o  tambien de una margen en una 
+
+
+         margin-top:        arrriba;
+         marging-botton:    abajo;
+         margin-left:       izquierda;
+         margin-rigth:      derecha;
+
+*/
+
+#margin{
+    
+    margin:10cm 10cm  5cm 5cm;
+    
+}
+
+#margin-left{   /*izquierda*/
+    
+    margin-left:5cm;
+    
+    
+}
