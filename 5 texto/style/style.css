@@ -1,0 +1,94 @@
+
+#ltr{
+    
+    direction:ltr;
+      
+}
+
+#rtl{
+    
+    direction:rtl;
+    
+}
+
+#centro{
+    
+    text-align: center;
+    
+}
+
+#tal{
+    
+    text-align-last: right;
+    text-indent: 20%;
+    text-shadow: 1px 1px red;
+  
+}
+
+
+h1{
+    
+    text-decoration: line-through;
+    text-decoration: overline;
+    text-decoration: underline;
+}
+
+#primero{
+    
+    text-transform:capitalize;
+    
+}
+
+#MAYUSCULA{
+    
+    text-transform: uppercase;
+    
+}
+
+#MINUSCULA{
+    
+    text-transform: lowercase;
+    
+}
+
+/*TEXT
+
+DIRECTION, la direecion del texto
+    
+    ltr, de izquierda a derecha (por defecto)
+    rtl, de derecha a izquierda
+
+TEXT ALIGN, alinea el texto
+
+    left, izquierda
+    rigth,derecha
+    top, arriba   
+    butto,abajo
+
+TEXT ALIGN-LAST, alinea la ultima linea de un texto
+
+TEXT DECORATION ,decora un texto
+
+    underline(subrayar), linea debajo del texto
+
+    overline, linea encima  del texto
+
+    line-through,linea atravez del texto
+
+    blink,
+
+TEXT INDENT(SANGRIA), alinea la primera linea de un texto con porcebtajes
+
+
+TEXT SHADOW permite poner sombra al texto, como decoracion de otro color en pixeles,pixeles color
+
+TEXT TRANSFORM, se encarga de tranformar el texto
+
+    capitalize, trasforma el primer caracter de una palabra a mayuscula 
+
+    uppercase, transforma todos los caracteres a mayuscula
+
+    lower case, transforma todos los caracteres en minuscula
+
+
+*/

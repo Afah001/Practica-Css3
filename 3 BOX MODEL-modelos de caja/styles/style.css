@@ -1,0 +1,55 @@
+/*es lo q hemos estado haciendo , con el color, bordes,etc se utilizaran algunas*/
+
+#cm{
+    
+    width:100px;
+    height:200px;
+    border:5px solid black;
+    float: right;
+    
+    
+}
+
+
+div p {
+    
+    border:5px solid red; 
+    margin-top: 0.1cm;
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    margin-bottom: 0.1cm;
+   
+}    
+
+#p1{
+    
+    background-color: red;
+    display: inline;
+    
+}
+
+
+#p2{
+    
+    background-color: green;
+    display: inline;
+}
+    
+
+/*CAJA DE MODELO
+
+Todas las etiquetas o elmentos de html son cjas de modelo , porlo q podemos utilizar todas las propiedades de de estas cajas a cada una de ellas mismas
+
+Las partes que componen cada caja y su orden de visualización desde el punto de vista del usuario son las siguientes:
+
+Contenido (content): se trata del contenido HTML del elemento (las palabras de un párrafo, una imagen, el texto de una lista de elementos, etc.)
+
+Relleno (padding): espacio libre opcional existente entre el contenido y el borde.
+
+Borde (border): línea que encierra completamente el contenido y su relleno.
+
+Imagen de fondo (background image): imagen que se muestra por detrás del contenido y el espacio de relleno.
+
+Color de fondo (background color): color que se muestra por detrás del contenido y el espacio de relleno.
+
+Margen (margin): separación opcional existente entre la caja y el resto de cajas adyacentes.*/

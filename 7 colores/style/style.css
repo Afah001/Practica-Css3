@@ -1,0 +1,25 @@
+h1{
+    
+    color:violet;
+    
+}
+
+p{
+    
+  
+    background-color:red;
+    color:black;
+    opacity:0.5;
+   
+    
+}
+
+/*COLOR, es el color del texto
+se puede poner de tres maneras
+
+    color: red;
+    color: #00ff00; hexadecimal
+    color: rgb(0,0,255);
+
+OPACIDAD(opacidad) , Ajusta el nivel de opacidad de un elemento
+     las letras dentro tambien se opacan*/
