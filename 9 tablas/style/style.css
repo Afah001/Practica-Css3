@@ -1,0 +1,33 @@
+/*TABLAS
+
+border, borde normal
+
+caption side, elige el lado a donde quiero poner el titulo de
+mi tabla
+
+border colapse,establece que existen dosmodelos de la tablas 
+separado y
+
+border spacing, 
+define el espacio  entre los bordes de la celdas
+
+
+empty-cells,me oculta una celda vacia,solo para el modelo de bordes separados
+
+table-layout,
+
+
+*/
+
+table,th,td{
+    
+   caption-side:bottom;
+   border:1px solid black;
+   border-collapse: separate;  
+   border-spacing: 1px;
+      
+   empty-cells: hide;
+   
+    
+}
+
