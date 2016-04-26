@@ -1,0 +1,22 @@
+
+
+ul{
+    
+    list-style:circle outside url() ;  /*manera mas practica*/
+    
+    
+   /*list-style: circle ;
+   list-style-position: inside;
+   list-style-image: url();*/
+
+
+    
+}
+
+/*LISTAS Y MARCADOS
+
+list-style, permite poner el estilo de nuestra lista , en una sola sola declaracion
+
+      list-style-typ, 
+      list-style-position.
+      list-style-image,*/
